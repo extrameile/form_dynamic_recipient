@@ -1,3 +1,7 @@
+This repository is abandoned: head over to https://github.com/akiessling/t3ext-form_dynamic_recipient for new releases and support.
+
+
+
 # Form Dynamic Recipient for EXT:form / TYPO3 12.4
 
 This extension adds simple database records, that can be used to generate a select field in the frontend.
